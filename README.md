@@ -1,5 +1,7 @@
-TypeScript Vite HTML Demo
+TypeScript Vite HTML Highlight Element Demo
 ===========================
+
+Chrome终于支持 border-radius 了，让事情简单了很多。
 
 ```
 npm install
